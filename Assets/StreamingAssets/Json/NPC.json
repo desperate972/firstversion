@@ -1,0 +1,22 @@
+{"NPC":[
+	{"Id":0,"NPCName":"村長","NPCType":0,"NPCFirstDialog":20},
+	{"Id":1,"NPCName":"亞瑟","NPCType":0,"NPCFirstDialog":21},
+	{"Id":2,"NPCName":"魔法師","NPCType":2,"NPCFirstDialog":22},
+	{"Id":3,"NPCName":"鐵匠","NPCType":3,"NPCFirstDialog":23},
+	{"Id":4,"NPCName":"煉金師","NPCType":3,"NPCFirstDialog":24},
+	{"Id":5,"NPCName":"老獵戶","NPCType":2,"NPCFirstDialog":25},
+	{"Id":6,"NPCName":"守備隊長","NPCType":2,"NPCFirstDialog":26},
+	{"Id":7,"NPCName":"旅館老闆","NPCType":1,"NPCFirstDialog":27},
+	{"Id":8,"NPCName":"婦人A","NPCType":0,"NPCFirstDialog":28},
+	{"Id":9,"NPCName":"婦人B","NPCType":0,"NPCFirstDialog":29},
+	{"Id":10,"NPCName":"小孩A","NPCType":0,"NPCFirstDialog":21},
+	{"Id":11,"NPCName":"小孩C","NPCType":0,"NPCFirstDialog":21},
+	{"Id":12,"NPCName":"商人A","NPCType":1,"NPCFirstDialog":21},
+	{"Id":13,"NPCName":"商人B","NPCType":1,"NPCFirstDialog":21},
+	{"Id":14,"NPCName":"牧師A","NPCType":2,"NPCFirstDialog":21},
+	{"Id":15,"NPCName":"牧師B","NPCType":2,"NPCFirstDialog":21},
+	{"Id":16,"NPCName":"醫生A","NPCType":2,"NPCFirstDialog":21},
+	{"Id":17,"NPCName":"醫生B","NPCType":2,"NPCFirstDialog":21},
+	{"Id":18,"NPCName":"藥師A","NPCType":1,"NPCFirstDialog":21},
+	{"Id":19,"NPCName":"藥師B","NPCType":1,"NPCFirstDialog":21}
+]}

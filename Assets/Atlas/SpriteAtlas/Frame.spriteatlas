@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Frame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a653374150c4cfb4eb886ef02a55a6eb, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3a66080046476c243b3422637e4505f4, type: 3}
+  - {fileID: 21300000, guid: b2d0ed61565cd4b49bf28b7f57a1eff0, type: 3}
+  - {fileID: 21300000, guid: 2acd6bf13171a3c43b128384d9d82601, type: 3}
+  - {fileID: 21300000, guid: d4a57572bae74c2439700271b6376553, type: 3}
+  - {fileID: 21300000, guid: d57a0392b15bd384f8b3f6da8f7925af, type: 3}
+  - {fileID: 21300000, guid: 6a8c43a4a2c85e8418c545b79fd78445, type: 3}
+  - {fileID: 21300000, guid: 440bd7a4b08b9084d879885779209497, type: 3}
+  - {fileID: 21300000, guid: 00494dd51bccd6147945ecd6b721c4eb, type: 3}
+  - {fileID: 21300000, guid: 86897bf55065e5f4990ea3c8638ccb4e, type: 3}
+  - {fileID: 21300000, guid: c1d4580671a3f4043b846839536f8f02, type: 3}
+  - {fileID: 21300000, guid: dd54a886b68e05743a0a991e548a237e, type: 3}
+  - {fileID: 21300000, guid: f8d4bbc6f5aa97b43b3222a7cc2fd5f5, type: 3}
+  - {fileID: 21300000, guid: 3e849b0721d9763428610e487fdc3e8a, type: 3}
+  - {fileID: 21300000, guid: 92ffcb48a44b5a142857e1e28e2cabc6, type: 3}
+  - {fileID: 21300000, guid: 75d4cbd94cd96df429a42fd6c999b8ab, type: 3}
+  - {fileID: 21300000, guid: e44db01ada8900945b853129e50ed33e, type: 3}
+  - {fileID: 21300000, guid: abe8c5ea2d865f8429f8c79dadc5b6fa, type: 3}
+  - {fileID: 21300000, guid: 47b298bb7584ee94994b58333ad2fa3d, type: 3}
+  - {fileID: 21300000, guid: 8b4b63fb62d2fd045a5a0f01c1992fe2, type: 3}
+  - {fileID: 21300000, guid: ca94296c92657554faab8287eb02a52d, type: 3}
+  - {fileID: 21300000, guid: adc614cc7006be7479e1abdd16821a79, type: 3}
+  - {fileID: 21300000, guid: 5c7eed4de2b59364a972bf9a8b576de6, type: 3}
+  - {fileID: 21300000, guid: c460c26d3e49cd5429540dc5105aae14, type: 3}
+  - {fileID: 21300000, guid: 4701045e3a1692d4c839b85ed853d2ac, type: 3}
+  - {fileID: 21300000, guid: 6b81dd5f49b5b5c46b77433a1ba05857, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ArmIcon_Back_4
+  - mid_background_new
+  - proxy_form
+  - Name_Bar_1
+  - ArmIcon_Back_3
+  - UI board Large  parchment
+  - Hp_frame
+  - Line
+  - lu-liu-312221
+  - button_cancel
+  - Frame_MsgBack
+  - ArmIcon_Back_1
+  - Exp_line
+  - ArmIcon_Back_5
+  - Pop_Back
+  - mid_background
+  - Frame_mid
+  - ArmIcon_Back
+  - barmid_ready
+  - Pop_Back_1
+  - ArmIcon_Back_2
+  - ArmIcon_Back_6
+  - MS_line
+  - Mp_line
+  - Hp_line
+  m_Tag: Frame
+  m_IsVariant: 0

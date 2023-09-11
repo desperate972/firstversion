@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArmIcon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c92837dcd566d6049a336794d9f8b9d5, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d62f5b00028c8d34a88360e3765c8b1c, type: 3}
+  - {fileID: 21300000, guid: a54c2b407e269164eb62b93b762badb9, type: 3}
+  - {fileID: 21300000, guid: 2eeaf4910fdfe9e4fb0b19d9de2a59f7, type: 3}
+  - {fileID: 21300000, guid: 5ddbea827e052054791035e924fdade0, type: 3}
+  - {fileID: 21300000, guid: daa592b2fe9a74542949edb4ae08a366, type: 3}
+  - {fileID: 21300000, guid: d26f820329c922d448e5ae7b20f6d965, type: 3}
+  - {fileID: 21300000, guid: 1983e7b335a00194184ae04cb4e41b2b, type: 3}
+  - {fileID: 21300000, guid: fb2b7f948ee217b409ee47db346fd225, type: 3}
+  - {fileID: 21300000, guid: 50162e05ad9c2064094e06b1eced0803, type: 3}
+  - {fileID: 21300000, guid: 31bed735ea22f364ebc80e7582eadf25, type: 3}
+  - {fileID: 21300000, guid: a08fef85c9a59604c8ba963ea8190c6c, type: 3}
+  - {fileID: 21300000, guid: 2415ef9539f90ff4089d878028638d7b, type: 3}
+  - {fileID: 21300000, guid: f72241d565dc054409be409767d89ad7, type: 3}
+  - {fileID: 21300000, guid: 78b76959517c7fe4faceca0235b97eb9, type: 3}
+  - {fileID: 21300000, guid: 441961e9bf8f46d42a8b865fea585db9, type: 3}
+  - {fileID: 21300000, guid: 3717260a87723764e8cfa78c12adf701, type: 3}
+  - {fileID: 21300000, guid: be2d898a8bd3959438dfd50e785c4661, type: 3}
+  - {fileID: 21300000, guid: ec470c7b20f7e3345943e18ac98f537a, type: 3}
+  - {fileID: 21300000, guid: 61322ecc96ccbfb4fa5f723c885262db, type: 3}
+  - {fileID: 21300000, guid: 9d15aadc24a25b94283d2c8e7142ec66, type: 3}
+  - {fileID: 21300000, guid: cb95180d8e18a7b4abfffa8101858951, type: 3}
+  - {fileID: 21300000, guid: 16f0656db179f9a449fe51f14766d356, type: 3}
+  - {fileID: 21300000, guid: 572e19cdeb423c8428a49c6b11cbcc2e, type: 3}
+  - {fileID: 21300000, guid: bac3d71e74cd5b342bc10ef070b4f8a9, type: 3}
+  - {fileID: 21300000, guid: 3562dd1ef0387a647b21621a77d77370, type: 3}
+  - {fileID: 21300000, guid: c1c541be62f077c488db602cbac9253f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Arm_3
+  - Arm_22
+  - Arm_2
+  - Arm_12
+  - Arm_14
+  - Arm_13
+  - Arm_7
+  - Arm_23
+  - Arm_4
+  - Arm_8
+  - Arm_20
+  - Arm_15
+  - Arm_9
+  - Arm_21
+  - Arm_18
+  - Arm_19
+  - Arm_10
+  - Arm_11
+  - Unequip
+  - Arm_1
+  - Arm_6
+  - Arm_17
+  - Arm_16
+  - Arm_5
+  - Arm_24
+  - Arm_0
+  m_Tag: ArmIcon
+  m_IsVariant: 0

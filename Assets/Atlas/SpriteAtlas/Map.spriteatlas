@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Map
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 48667a190703d6a47b3fd2758358bf19, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ce0e45017aa462e45a33c938025fcafb, type: 3}
+  - {fileID: 21300000, guid: 9e30b6b105253b342873703ca819e6f0, type: 3}
+  - {fileID: 21300000, guid: c1cdaee9fa562bb40bba0c8db78559c9, type: 3}
+  - {fileID: 21300000, guid: 81fb692aa5b7cff4faf8502f4edca200, type: 3}
+  - {fileID: 21300000, guid: c75d8c6c2043f494d8dfb614f70428b6, type: 3}
+  - {fileID: 21300000, guid: 12ec7d7e54d03024b925b7f38e55c7f0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - City_0
+  - Wild_1
+  - Wild_2
+  - City_2
+  - Wild_0
+  - City_1
+  m_Tag: Map
+  m_IsVariant: 0

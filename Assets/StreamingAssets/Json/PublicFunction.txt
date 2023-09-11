@@ -1,0 +1,4 @@
+PublicFunction
+
+    1.開啟介面(Prefab) > OpenPrefab.cs
+    2.開啟訊息介面(MsgBox) > 

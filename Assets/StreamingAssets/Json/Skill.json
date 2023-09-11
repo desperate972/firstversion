@@ -1,0 +1,12 @@
+{"Skill":[
+	{"SkillId":0,"SkillType":0,"SkillCharaterMonster":0,"SkillLevelNum":[100,110,120,130,140,150,160,170,180,200],"SkillName":"普通攻擊","SkillBattleType":0,"SkillTime":[1,1,1,1,1,1,1,1,1,1],"SkillCost":[0,0,0,0,0,0,0,0,0,0],"SkillICONName":"Skill_1"},
+	{"SkillId":1,"SkillType":0,"SkillCharaterMonster":0,"SkillLevelNum":[150,160,170,180,190,200,210,220,230,250],"SkillName":"強力攻擊","SkillBattleType":0,"SkillTime":[2,2,2,2,2,2,2,2,2,1.5],"SkillCost":[0,0,0,0,0,0,0,0,0,0],"SkillICONName":"Skill_2"},
+	{"SkillId":2,"SkillType":1,"SkillCharaterMonster":0,"SkillLevelNum":[110,120,130,140,150,160,170,180,190,200],"SkillName":"火球","SkillBattleType":1,"SkillTime":[2,2,2,2,2,2,2,2,2,1.5],"SkillCost":[10,10,10,10,10,5,5,5,5,5],"SkillICONName":"Skill_3"},
+	{"SkillId":3,"SkillType":0,"SkillCharaterMonster":0,"SkillLevelNum":[100,110,120,130,140,150,160,170,180,200],"SkillName":"電擊","SkillBattleType":0,"SkillTime":[1,1,1,1,1,1,1,1,1,1],"SkillCost":[5,5,5,5,5,3,3,3,3,3],"SkillICONName":"Skill_4"},
+	{"SkillId":4,"SkillType":1,"SkillCharaterMonster":0,"SkillLevelNum":[100,105,110,115,120,125,130,135,140,150],"SkillName":"閃光","SkillBattleType":1,"SkillTime":[1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1],"SkillCost":[15,15,15,15,15,8,8,8,8,8],"SkillICONName":"Skill_5"},
+	{"SkillId":5,"SkillType":0,"SkillCharaterMonster":1,"SkillLevelNum":[100,110,120,130,140,150,160,170,180,200],"SkillName":"怪物-普通攻擊","SkillBattleType":0,"SkillTime":[1,1,1,1,1,1,1,1,1,1],"SkillCost":[0,0,0,0,0,0,0,0,0,0],"SkillICONName":"Skill_6"},
+	{"SkillId":6,"SkillType":0,"SkillCharaterMonster":1,"SkillLevelNum":[150,160,170,180,190,200,210,220,230,250],"SkillName":"怪物-強力攻擊","SkillBattleType":0,"SkillTime":[2,2,2,2,2,2,2,2,2,1.5],"SkillCost":[0,0,0,0,0,0,0,0,0,0],"SkillICONName":"Skill_7"},
+	{"SkillId":7,"SkillType":1,"SkillCharaterMonster":1,"SkillLevelNum":[110,120,130,140,150,160,170,180,190,200],"SkillName":"怪物-火球","SkillBattleType":1,"SkillTime":[2,2,2,2,2,2,2,2,2,1.5],"SkillCost":[10,10,10,10,10,5,5,5,5,5],"SkillICONName":"Skill_8"},
+	{"SkillId":8,"SkillType":0,"SkillCharaterMonster":1,"SkillLevelNum":[100,110,120,130,140,150,160,170,180,200],"SkillName":"怪物-電擊","SkillBattleType":0,"SkillTime":[1,1,1,1,1,1,1,1,1,1],"SkillCost":[5,5,5,5,5,3,3,3,3,3],"SkillICONName":"Skill_9"},
+	{"SkillId":9,"SkillType":1,"SkillCharaterMonster":1,"SkillLevelNum":[100,105,110,115,120,125,130,135,140,150],"SkillName":"怪物-閃光","SkillBattleType":1,"SkillTime":[1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1],"SkillCost":[15,15,15,15,15,8,8,8,8,8],"SkillICONName":"Skill_10"}
+]}

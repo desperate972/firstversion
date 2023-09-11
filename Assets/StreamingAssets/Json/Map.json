@@ -1,0 +1,6 @@
+{"Map":[
+	{"MapId":0,"MapSprite":"City_0","MapType":0,"MapNpcList":0,"MonsterList":0,"MapName":"新手區","MapContent":"新手區的城鎮敘述"},
+	{"MapId":1,"MapSprite":"Wild_0","MapType":1,"MapNpcList":0,"MonsterList":0,"MapName":"新手野怪區","MapContent":"新手野怪區的敘述"},
+	{"MapId":2,"MapSprite":"City_1","MapType":0,"MapNpcList":1,"MonsterList":0,"MapName":"第二個城","MapContent":"第二個城的城鎮敘述"},
+	{"MapId":3,"MapSprite":"Wild_1","MapType":1,"MapNpcList":0,"MonsterList":1,"MapName":"第二個城的野怪區","MapContent":"第二個城的野怪區的敘述"}
+]}

@@ -1,0 +1,12 @@
+{"Item":[
+	{"Id":0,"ItemName":"回復藥水","ItemIcon":"Item_0","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"透明瓶子裡裝有血紅色的液體，飲用後能回復一些小傷口。","ItemPowerExplain":"使用後瞬間回復50點血量!","ItemRequest":1,"ItemSell":10},
+    {"Id":1,"ItemName":"魔力藥水","ItemIcon":"Item_1","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"透明瓶子裡裝有藍色的液體，飲用後精神會感到些微回復。","ItemPowerExplain":"使用後瞬間回復50點魔力!","ItemRequest":1,"ItemSell":10},
+    {"Id":2,"ItemName":"蘋果","ItemIcon":"Item_2","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一顆鮮紅色的蘋果。","ItemPowerExplain":"使用後瞬間回復10點血量!","ItemRequest":1,"ItemSell":10},
+    {"Id":3,"ItemName":"啤酒","ItemIcon":"Item_3","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"大麥釀造的啤酒。","ItemPowerExplain":"使用後瞬間回復10點魔力!","ItemRequest":1,"ItemSell":10},
+    {"Id":4,"ItemName":"吐司 ","ItemIcon":"Item_4","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一條大麥吐司。","ItemPowerExplain":"使用後瞬間回復15點血量!","ItemRequest":1,"ItemSell":10},
+    {"Id":5,"ItemName":"起司","ItemIcon":"Item_5","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一小塊起司。","ItemPowerExplain":"使用後瞬間回復15點魔力!","ItemRequest":1,"ItemSell":10},
+    {"Id":6,"ItemName":"魚肉","ItemIcon":"Item_6","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一塊切片魚肉","ItemPowerExplain":"使用後瞬間回復20點血量!","ItemRequest":1,"ItemSell":10},
+    {"Id":7,"ItemName":"青蘋果","ItemIcon":"Item_7","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一顆青色蘋果","ItemPowerExplain":"使用後瞬間回復5點血量!","ItemRequest":1,"ItemSell":10},
+    {"Id":8,"ItemName":"紅酒","ItemIcon":"Item_8","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一瓶紅酒","ItemPowerExplain":"使用後瞬間回復10點血量和10點魔力","ItemRequest":1,"ItemSell":10},
+    {"Id":9,"ItemName":"混合藥水","ItemIcon":"Item_9","ItemTag":0,"ItemStack":100,"ItemPower":0,"ItemPowerMin":10,"ItemPowerMax":0,"ItemExplain":"一瓶混合回復藥水跟魔力藥水的液體","ItemPowerExplain":"使用後瞬間回復15點血量和15點魔力","ItemRequest":1,"ItemSell":10}
+]}

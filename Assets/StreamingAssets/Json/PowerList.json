@@ -1,0 +1,15 @@
+{"ArmPowerList":[
+	{"Id":1,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"力量","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":2,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"智慧","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":3,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"敏捷","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":4,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"血量","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":5,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"魔力","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":6,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":1,"PowerName":"物理攻擊","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":5,"Power_1_Max":10},
+	{"Id":7,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":1,"PowerName":"魔法攻擊","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":5,"Power_1_Max":10},
+	{"Id":8,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"血量回復","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":9,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"魔力回復","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":10,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"物理抵抗","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":11,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"魔法護盾","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":12,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"閃避","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0},
+	{"Id":13,"PowerLevelMin":1,"PowerLevelMax":5,"PowerType":0,"PowerName":"爆擊","Power_0_Min":1,"Power_0_Max":5,"Power_1_Min":0,"Power_1_Max":0}
+]}

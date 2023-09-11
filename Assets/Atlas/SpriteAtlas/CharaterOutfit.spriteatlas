@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharaterOutfit
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c01381a3aa8c4f64997ed727701fd303, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 17ae8570ab4bf0f4691ab9f4eb087266, type: 3}
+  - {fileID: 21300000, guid: e89edfa00683f4d4f86f47933f771b24, type: 3}
+  - {fileID: 21300000, guid: cecd54912b89bbd44bd91e2280699588, type: 3}
+  - {fileID: 21300000, guid: db7cf89119b50b044abf892d8a5f1cc1, type: 3}
+  - {fileID: 21300000, guid: b8ed47e13b423d448a41f0ed43a948f0, type: 3}
+  - {fileID: 21300000, guid: d1277752d1c5fdc458d98532ded6324f, type: 3}
+  - {fileID: 21300000, guid: 8b766572cf9e6b943bde9e57a68cb541, type: 3}
+  - {fileID: 21300000, guid: 0c2244f212a4a9848893480436c3bb0d, type: 3}
+  - {fileID: 21300000, guid: a94dad34c5848c346a2feed7a8be11a7, type: 3}
+  - {fileID: 21300000, guid: 8ebda86633b22ec4b97bf704ef1c168e, type: 3}
+  - {fileID: 21300000, guid: b468b958d1c46e3489f9cfca3f029dce, type: 3}
+  - {fileID: 21300000, guid: 75490eb855558ea42b3fc5e4419ad274, type: 3}
+  - {fileID: 21300000, guid: 80d8ea893507b954c87f1d5ff6d1cb84, type: 3}
+  - {fileID: 21300000, guid: 6f2716b914c989d418b949e3bb758f0c, type: 3}
+  - {fileID: 21300000, guid: 73e365d9af5d7dc4eb9d40b8c46824ac, type: 3}
+  - {fileID: 21300000, guid: 5f0bccd95467d864fbdd2cb6ad7fb9d5, type: 3}
+  - {fileID: 21300000, guid: 2b4e155bcd428f14b8270e66f8ffd05f, type: 3}
+  - {fileID: 21300000, guid: 511271fb61f03ae409dd2b1b8a5d7dfc, type: 3}
+  - {fileID: 21300000, guid: f2093bdcc5f10d24aae3f6fa09503b3e, type: 3}
+  - {fileID: 21300000, guid: a091537d720fc024d9cfbb6e922f52ca, type: 3}
+  - {fileID: 21300000, guid: e3de77beb6f9fd74a8eef4b53a397784, type: 3}
+  - {fileID: 21300000, guid: ea39521f103197c4d9585abf28a442a0, type: 3}
+  - {fileID: 21300000, guid: 6296522f67333bf4d9047906740969ed, type: 3}
+  - {fileID: 21300000, guid: 42365a3fd192a274b84fabaf8cf522a2, type: 3}
+  - {fileID: 21300000, guid: a4e025df8dcfe9a45bd100f42a3aa114, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Belt_1
+  - Body_1
+  - Hand_2
+  - Ring_1
+  - Belt_3
+  - Necklace_1
+  - Head_2
+  - Weapon_3
+  - Ring_2
+  - Head_3
+  - Unequip
+  - Body_2
+  - Weapon_2
+  - Weapon_1
+  - Hand_1
+  - Hand_3
+  - Body_3
+  - Belt_2
+  - Head_1
+  - Foot_3
+  - Necklace_2
+  - Necklace_3
+  - Foot_2
+  - Foot_1
+  - Ring_3
+  m_Tag: CharaterOutfit
+  m_IsVariant: 0

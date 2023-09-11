@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c44917a60d180dd4cad52045f7595cc4, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4ee5e240f641b854792c775afafe002c, type: 3}
+  - {fileID: 21300000, guid: b51c14a0b8ff5384fb8a601a65bfcddd, type: 3}
+  - {fileID: 21300000, guid: dc9c25c0fb2e0724a8a6800bd251dc09, type: 3}
+  - {fileID: 21300000, guid: 28ad26f0e21527642851796dd1de77fd, type: 3}
+  - {fileID: 21300000, guid: a2fc073104c422c4bb43d58d1f237bbf, type: 3}
+  - {fileID: 21300000, guid: 219f4961f4b53094aafdc53c24f24d7d, type: 3}
+  - {fileID: 21300000, guid: 39fdb5716a811904caaa36f219fc1614, type: 3}
+  - {fileID: 21300000, guid: 67e0d9c1ba8dfd54badc18d479e0cc8c, type: 3}
+  - {fileID: 21300000, guid: 25eb6fe1cc318e3488706cbaaa9feaae, type: 3}
+  - {fileID: 21300000, guid: f140861220be4c34297020d6ab56541b, type: 3}
+  - {fileID: 21300000, guid: 6ae81552244297743be4ef7b2a81fd31, type: 3}
+  - {fileID: 21300000, guid: df06ba92ae0506f4dba4ea15a5651353, type: 3}
+  - {fileID: 21300000, guid: e9fe45538d5e37b4c872850c5745255c, type: 3}
+  - {fileID: 21300000, guid: 9cd5bb73a5bd86b4a86d6c9a98852acf, type: 3}
+  - {fileID: 21300000, guid: c62996c308b63d94aabbbfbd20b32a3a, type: 3}
+  - {fileID: 21300000, guid: a2fd07c3a3f7bf64bb100c5d253d01cc, type: 3}
+  - {fileID: 21300000, guid: 4bac3834e41bdcc44865f9e196f8959e, type: 3}
+  - {fileID: 21300000, guid: 1e678b64f0455ab4c89b90c82b0228ce, type: 3}
+  - {fileID: 21300000, guid: 0e4fdd641a688174a8ccabbd0612f54e, type: 3}
+  - {fileID: 21300000, guid: 3e234d15d7493fa45ada007f034dcd7d, type: 3}
+  - {fileID: 21300000, guid: 08e0ab45bbade51488e7ca4bc5b24ead, type: 3}
+  - {fileID: 21300000, guid: 90d7ac45d0c5bfc44a2ddf5685d8573f, type: 3}
+  - {fileID: 21300000, guid: a905c2a5078200e4385609a136498428, type: 3}
+  - {fileID: 21300000, guid: a5d45c06a9641414783e992e6c60cffe, type: 3}
+  - {fileID: 21300000, guid: 7eb7530793f178f49b59da2828b25a6b, type: 3}
+  - {fileID: 21300000, guid: b001d037c7d8b0f478207c87b2da9ede, type: 3}
+  - {fileID: 21300000, guid: 68c08167314438b4887d60e34baea3c2, type: 3}
+  - {fileID: 21300000, guid: 8bb71a2805fe4c44684a9be6e8f5f241, type: 3}
+  - {fileID: 21300000, guid: 815756581656187499868fbe6aba678e, type: 3}
+  - {fileID: 21300000, guid: eed8c2d84e06a104585ad2e4eaa81de1, type: 3}
+  - {fileID: 21300000, guid: 341c6a29466da2a4782ec11dd9752a95, type: 3}
+  - {fileID: 21300000, guid: 2996ae29c1e3fa64394b936410e79355, type: 3}
+  - {fileID: 21300000, guid: 0a334a5a45e740c45aa88a533b87fa52, type: 3}
+  - {fileID: 21300000, guid: e71dcf5ab8c8f1c45bc3e8de706d78ce, type: 3}
+  - {fileID: 21300000, guid: 8505e47aadebf734492779300ef55ef2, type: 3}
+  - {fileID: 21300000, guid: 0d56da8a67858b84f9661c79bdc06878, type: 3}
+  - {fileID: 21300000, guid: 37dbbc8a98a7f664780bb2c539fd9e68, type: 3}
+  - {fileID: 21300000, guid: 7d35419ac8bb24d4a98cbce3e6b30a00, type: 3}
+  - {fileID: 21300000, guid: d34a46badf2cbb8409a606e02a51b960, type: 3}
+  - {fileID: 21300000, guid: 6929dfea0ebe568429266a2c81bb2cba, type: 3}
+  - {fileID: 21300000, guid: 9fa3770b662ca6a4791d4703c5c031fd, type: 3}
+  - {fileID: 21300000, guid: f552618b4970d3147bd1d6b8eecac6aa, type: 3}
+  - {fileID: 21300000, guid: 0932e3ab8040dcd4585437f650b36c01, type: 3}
+  - {fileID: 21300000, guid: cb588cbb52d81bd46b8a444ed6161182, type: 3}
+  - {fileID: 21300000, guid: b71b32db04b42b94aab029bdb4f61188, type: 3}
+  - {fileID: 21300000, guid: e52907db1ad0e7c468a37387cefc3a0a, type: 3}
+  - {fileID: 21300000, guid: 7cb2266cbebdaaf4fb8d235e40bfc40b, type: 3}
+  - {fileID: 21300000, guid: aa6c2a8c1c89e5a4ca0102228f07ce3d, type: 3}
+  - {fileID: 21300000, guid: 7c6712ac057c4b34786d36af633f051f, type: 3}
+  - {fileID: 21300000, guid: 240bfdecebb086347a5be58a0389e3e2, type: 3}
+  - {fileID: 21300000, guid: 72b6c02d61ab52c4f9e9de3b8f357a3c, type: 3}
+  - {fileID: 21300000, guid: b85271fdfb6aed54b9995bdb2c94b9cc, type: 3}
+  - {fileID: 21300000, guid: c3c2160e369ce66469e98ab42b3c9e71, type: 3}
+  - {fileID: 21300000, guid: ad3c102e486ae5e4a8f2f5505cb79189, type: 3}
+  - {fileID: 21300000, guid: 7a7159decba500747a5eb49b52eec13f, type: 3}
+  - {fileID: 21300000, guid: df577cfefbe33fe45870ac5fae809a01, type: 3}
+  - {fileID: 21300000, guid: 42cd1c0fbef4c594b94b0d1c454df777, type: 3}
+  - {fileID: 21300000, guid: ea2b9dbf717a3114497f8f382676ccbe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_ChangeBlue
+  - button2
+  - CharaterList_Back
+  - button_ready_off
+  - appleicon
+  - Button_Normal
+  - Button_Orange
+  - hit
+  - Button_Less_1
+  - Title_2
+  - Button_Blue_Choose
+  - CharaterList_CreatBack
+  - Plus
+  - bonus_04
+  - Button_Red_Circle
+  - Button_Black_Circle
+  - Button_Orange_Circle
+  - brown
+  - Button_Less
+  - button_ready_on_1
+  - WhiteGround
+  - Button_ChangeWhite
+  - Button_Blue_Circle
+  - BlackGround
+  - button3
+  - GreenSquare
+  - ArmEquip
+  - Button_Plus
+  - Button_Red
+  - Button_Red_Choose_Circle
+  - RedSquare
+  - yellow
+  - Button_Help
+  - gray
+  - Change_Red
+  - Button_Back
+  - button_ready_on_2
+  - Change_Blue
+  - button2_on
+  - Button_Orange_Choose
+  - Button_Plus_1
+  - Button_OutLine
+  - Button_Blue_Choose_Circle
+  - pink
+  - BlueSquare
+  - Title_1
+  - puregreen
+  - outside_yellow
+  - Button_Red_Choose
+  - Button_Normal_Press
+  - Button_ChangeRed
+  - Button_Blue
+  - button_ready_on
+  - Button_Change
+  - bonus_01
+  - CharaterList_CreatIcon
+  - Golden Coin
+  - Button_White_Circle
+  m_Tag: Common
+  m_IsVariant: 0
